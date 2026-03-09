@@ -359,27 +359,110 @@
 
 
 # Best Practices / Benchmarking
+### Metrobank Benchmarking and Best Practices Overview
+- Metrobank aligns its governance, operations, and sustainability practices with global benchmarks.
+- The bank evaluates its performance using international standards and industry comparisons to maintain competitiveness and transparency.
 
+### 1. Corporate Governance Benchmarking
+- **ASEAN Corporate Governance Scorecard (ACGS):**
+  - Used to evaluate performance in shareholder rights, stakeholder relations, and board responsibilities
+  - Metrobank received the 4-Golden Arrow distinction from the Institute of Corporate Directors
+- **Independent External Assessments:**
+  - Conducted every three years by external facilitators (e.g., Reyes Tacandong & Co.)
+  - Evaluates Board effectiveness in compliance with SEC and BSP regulations
+- **Peer Alignment:**
+  - Audit Committee annually reviews its Charter to ensure alignment with industry best practices
+- **Continuous Education:**
+  - Directors attend annual seminars by the Center for Global Best Practices (CGBP) and the Institute of Corporate Directors
+  - Topics include disruptive strategy, data protection, and ESG developments
+
+### 2. Operational and Audit Best Practices
+- **Audit Standards:**
+  - Internal Audit Group operates under Global Internal Audit Standards (GIAS)
+  - Guided by the COSO Internal Control–Integrated Framework
+- **IT Governance:**
+  - Uses COBIT framework to manage technology risks and align IT strategy with business goals
+- **Compensation Benchmarking:**
+  - Director and officer compensation packages benchmarked against industry standards to attract and retain talent
+ 
+### 3. Financial and Risk Management Benchmarking
+- **Basel III Framework:**
+  - Capital management and risk oversight aligned with international Basel III standards
+  - Maintains capital adequacy and liquidity ratios above BSP and global requirements
+- **Credit Information Systems:**
+  - Transition to COCREE 2.0 and CRIMS systems
+  - Uses advanced analytics and matching algorithms to improve borrower risk assessment
+ 
+### 4. Competitive Performance Benchmarking
+- **Strongest Bank Recognition:**
+  - Named "Strongest Bank in the Philippines" by The Asian Banker for four consecutive years (2021–2024)
+- **Customer Recommendation Benchmark:**
+  - Recognized as the "Most Recommended Retail Bank in the Philippines"
+  - Based on surveys of over 12,000 customers across Asia
+- **Subsidiary Benchmarking:**
+  - First Metro Investment Corporation maintains 72–78% market share in domestic capital raising
+  - Subsidiaries such as PSBank are evaluated against industry peers
+ 
+### 5. Competitor Context (BDO and BPI)
+- Competitive benchmarking considers the performance of major Philippine banks such as BDO and BPI
+- Industry competition focuses on:
+  - Brand strength
+  - Regional presence
+  - Services for Overseas Filipino Workers (OFWs)
+- All major banks are transitioning toward mobile-centric omni-channel banking models
+
+### 6. Sustainability and Ethics Best Practices
+- **GRI and UN SDGs:**
+  - Sustainability reports follow Global Reporting Initiative (GRI) standards
+  - Programs aligned with United Nations Sustainable Development Goals (SDGs)
+- **Anti-Corruption Policies:**
+  - Implements Anti-Bribery and Corruption (ABC) policy
+  - Maintains whistleblowing framework to ensure transparency and accountability
 
 
 
 # Recommendations
+### 6. Sustainability and Ethics Best Practices
+- **GRI and UN SDGs:**
+  - Sustainability reports follow Global Reporting Initiative (GRI) standards
+  - Programs aligned with United Nations Sustainable Development Goals (SDGs)
+- **Anti-Corruption Policies:**
+  - Implements Anti-Bribery and Corruption (ABC) policy
+  - Maintains whistleblowing framework to ensure transparency and accountability
+ 
+2. **Full Automation of Legacy Processes**
+- Migrate all remaining manual branch operations (voting, document handling, account updates) to automated workflows.
+- Implement real-time digital approval systems for both consumer and corporate lending.
+- Leverage robotics and AI to reduce turnaround times and operational bottlenecks.
+- KPI Focus: Reduce operational cost-to-income ratio while maintaining or improving service quality.
 
+3. **Strengthen IT Governance and Cybersecurity**
+- Enhance monitoring of digital risks with advanced analytics and predictive threat detection.
+- Regularly review ITSC frameworks to ensure alignment with business strategy.
+- Conduct independent cybersecurity audits at least annually.
+- KPI Focus: Zero major IT disruptions, maintain regulatory compliance, and strengthen customer trust.
 
+4. **Workforce Capacity Building**
+- Upskill staff in digital banking tools, data analytics, and customer advisory services.
+- Implement targeted training programs for front-liners to handle advisory instead of transactional tasks.
+- Optimize manpower allocation to reduce excess costs while supporting growth initiatives.
+- KPI Focus: Improve staff productivity metrics and reduce manpower-related operational bottlenecks.
 
+5. **Enhanced Environmental and Social Risk Integration**
+- Integrate ESG metrics more deeply into credit and investment approval processes.
+- Expand green financing programs and track ESG outcomes.
+- Provide regular board-level reporting on environmental and social risk exposure.
+- KPI Focus: Grow sustainable loan portfolio while managing environmental/social risks.
 
-# Implementation Plan
+6. **Financial Reporting and Transparency**
+- Maintain the improved 51-day post-year-end reporting timeline and aim for further efficiency gains.
+- Adopt automated reporting tools to accelerate audit and financial statement preparation.
+- KPI Focus: Ensure 100% compliance with BSP and SEC standards while enhancing investor confidence.
 
-
-
-
-# Supporting Literature
-
-
-
-
-# Functional Area
-
+7. **Benchmarking and Continuous Improvement**
+- Continue aligning internal processes and governance practices with global best practices (ACGS, Basel III, GRI, COBIT).
+- Periodically review competitive landscape and peer performance (BDO, BPI) to identify emerging trends.
+- KPI Focus: Maintain top rankings in operational efficiency, digital adoption, and customer satisfaction.
 
 
 
