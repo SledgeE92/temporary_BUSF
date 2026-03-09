@@ -422,14 +422,14 @@
 
 
 # Recommendations
-### 6. Sustainability and Ethics Best Practices
-- **GRI and UN SDGs:**
-  - Sustainability reports follow Global Reporting Initiative (GRI) standards
-  - Programs aligned with United Nations Sustainable Development Goals (SDGs)
-- **Anti-Corruption Policies:**
-  - Implements Anti-Bribery and Corruption (ABC) policy
-  - Maintains whistleblowing framework to ensure transparency and accountability
- 
+### Recommendations for Metrobank’s Digital/IT Banking and Operational Improvement
+
+1. **Complete Omni-Channel Integration**
+- Accelerate the transition from multi-channel to mobile-centric omni-channel experience.
+- Standardize customer journeys across digital and physical touchpoints.
+- Invest in UX/UI improvements and human-centered design to reduce friction in self-service platforms.
+- KPI Focus: Increase digital penetration beyond 50% and reduce digital complaints below 0.02%.
+
 2. **Full Automation of Legacy Processes**
 - Migrate all remaining manual branch operations (voting, document handling, account updates) to automated workflows.
 - Implement real-time digital approval systems for both consumer and corporate lending.
